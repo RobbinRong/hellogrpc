@@ -1,0 +1,1 @@
+##需要执行maven的protobuf插件的compile和compile-customer命令
